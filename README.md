@@ -1,2 +1,1 @@
-# interlincx-challenge
-Git Challenge
+# Git Challenge
